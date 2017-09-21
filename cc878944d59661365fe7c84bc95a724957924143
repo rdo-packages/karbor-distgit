@@ -53,6 +53,23 @@
     },
     {
       "key": {
+        "uuid": "3a961159_0255d3c5",
+        "filename": "openstack-karbor.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 424
+      },
+      "writtenOn": "2017-09-21T16:41:06Z",
+      "side": 1,
+      "message": "I\u0027m not sure the client would be a Requires here\n\nI dont think any of the clients would be a dep really.",
+      "revId": "cc878944d59661365fe7c84bc95a724957924143",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a961159_8241c30d",
         "filename": "openstack-karbor.spec",
         "patchSetId": 6
