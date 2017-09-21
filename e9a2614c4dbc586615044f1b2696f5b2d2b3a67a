@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "3a961159_e26447e7",
+        "filename": "openstack-karbor.spec",
+        "patchSetId": 5
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 424
+      },
+      "writtenOn": "2017-09-21T13:59:31Z",
+      "side": 1,
+      "message": "you need another \\ at the end of this line",
+      "revId": "e9a2614c4dbc586615044f1b2696f5b2d2b3a67a",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a961159_826e23c8",
         "filename": "openstack-karbor.spec",
         "patchSetId": 5
