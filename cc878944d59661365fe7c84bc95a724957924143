@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a961159_22bbaf0f",
+        "filename": "openstack-karbor.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 424
+      },
+      "writtenOn": "2017-09-21T16:37:20Z",
+      "side": 1,
+      "message": "any reason for the Epoch?",
+      "revId": "cc878944d59661365fe7c84bc95a724957924143",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_4237dbb0",
+        "filename": "openstack-karbor.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 424
+      },
+      "writtenOn": "2017-09-21T16:37:20Z",
+      "side": 1,
+      "message": "Nit: maybe sort out the spacing here so all Source files are grouped together?",
+      "revId": "cc878944d59661365fe7c84bc95a724957924143",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_623cd794",
+        "filename": "openstack-karbor.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 424
+      },
+      "writtenOn": "2017-09-21T16:37:20Z",
+      "side": 1,
+      "message": "I think you\u0027ll need:\n\n%{?systemd_requires}\n\nbefore this line",
+      "revId": "cc878944d59661365fe7c84bc95a724957924143",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_8241c30d",
+        "filename": "openstack-karbor.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 261,
+      "author": {
+        "id": 424
+      },
+      "writtenOn": "2017-09-21T16:37:20Z",
+      "side": 1,
+      "message": "cool, lets see what that does",
+      "revId": "cc878944d59661365fe7c84bc95a724957924143",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
