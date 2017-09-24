@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "1a930d6b_6b8841e8",
+        "filename": "openstack-karbor.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-09-24T02:11:07Z",
+      "side": 1,
+      "message": "No, not sure, is it unnecessary?",
+      "parentUuid": "3a961159_22bbaf0f",
+      "revId": "cc878944d59661365fe7c84bc95a724957924143",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a961159_4237dbb0",
         "filename": "openstack-karbor.spec",
         "patchSetId": 6
@@ -30,6 +48,24 @@
       "writtenOn": "2017-09-21T16:37:20Z",
       "side": 1,
       "message": "Nit: maybe sort out the spacing here so all Source files are grouped together?",
+      "revId": "cc878944d59661365fe7c84bc95a724957924143",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a930d6b_8b6c8d38",
+        "filename": "openstack-karbor.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-09-24T02:11:07Z",
+      "side": 1,
+      "message": "Sure, any suggestion?",
+      "parentUuid": "3a961159_4237dbb0",
       "revId": "cc878944d59661365fe7c84bc95a724957924143",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "1a930d6b_ab694927",
+        "filename": "openstack-karbor.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-09-24T02:11:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3a961159_623cd794",
+      "revId": "cc878944d59661365fe7c84bc95a724957924143",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a961159_0255d3c5",
         "filename": "openstack-karbor.spec",
         "patchSetId": 6
@@ -64,6 +118,24 @@
       "writtenOn": "2017-09-21T16:41:06Z",
       "side": 1,
       "message": "I\u0027m not sure the client would be a Requires here\n\nI dont think any of the clients would be a dep really.",
+      "revId": "cc878944d59661365fe7c84bc95a724957924143",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a930d6b_4b5aa584",
+        "filename": "openstack-karbor.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-09-24T02:11:07Z",
+      "side": 1,
+      "message": "In fact, the Requres here are synced with karbor requirements. Shouldn\u0027t it be this way?",
+      "parentUuid": "3a961159_0255d3c5",
       "revId": "cc878944d59661365fe7c84bc95a724957924143",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
